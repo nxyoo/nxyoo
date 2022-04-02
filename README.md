@@ -1,6 +1,6 @@
 ## 👋 Salut, laissez moi me présenté ;)
 
-`🔎` » **I'm Armand, I'm currently working on [Undercraft](https://discord.undercraft.fr/).**
+`🔎` » **Salut! Moi c'est Armand et je travail actuellement sur HelaryaMC [](https://example.com).**
 
 ## 📊 My Stats
 

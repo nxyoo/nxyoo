@@ -6,9 +6,6 @@
 
 <div align="center">
   <tr style="display:flex; justify-content: space-around">
-    <td align="center" width="50%" style="margin: auto 0">
-      <img src="https://github-readme-stats.vercel.app/api?username=nxyoo&count_private=true&show_icons=true&theme=aura_dark&layout=compact&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true&border_color=30363D" width="50%"/>
-    </td>
       <td align="center" width="50%" style="margin-right: 40px;">
       <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxyoo&theme=aura_dark&langs_count=8&layout=compact&enable_animations=true&border_color=30363D"/>
     </td>

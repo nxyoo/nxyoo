@@ -1,6 +1,6 @@
-## 👋 Salut, laissez moi me présenté ;)
+## 👋 Hi! Let me present me :)
 
-`🔎` » **Salut! Moi c'est Armand et je travail actuellement sur HelaryaMC [](https://example.com).**
+`🔎` » **I'm Armand and i'm curently working on HelaryaMC, a minecraft mini-game server [](https://helaryamc.ml).**
 
 ## 📊 My Stats
 
@@ -20,12 +20,12 @@
          alt="Wakatime Stats"/>
 </div>
 
-## 🌍 Je dev en quoi?:
+## 🌍 What programming language i use?:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## 🪄 Frameworks:
+## 🧩 Frameworks:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -36,11 +36,9 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ## ⚙️ Programming Tools:
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## 🔧 Operating System :
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-D70A53?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=ios&logoColor=white)

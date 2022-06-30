@@ -4,7 +4,7 @@
 
 -->
 
-```java
+```html
 [Armand@Armand-PC ~]$ neofetch
                                ..   Armand@Armand-PC
                    ....,,:;+cclll   ----------------

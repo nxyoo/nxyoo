@@ -4,7 +4,7 @@
 
 -->
 
-```css
+```js
 [Armand@Armand-PC ~]$ neofetch
                                ..   Armand@Armand-PC
                    ....,,:;+cclll   ----------------
@@ -24,7 +24,7 @@ llllllllllllll  lllllllllllllllll   Java: 5/10
 ```
 
 <p align="center">
-	<img src="https://lanyard-profile-readme.vercel.app/api/933313422165172264?hideTimestamp=true&idleMessage=Freelance%20and%20Self-Taught%20Developer.&hideBadges=true"/>
+	<img src="https://lanyard-profile-readme.vercel.app/api/933313422165172264?hideTimestamp=true&idleMessage=playing games"/>
 <!-- 	<br>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=nxyoo&theme=dark&hide_border=true">
 	<br>

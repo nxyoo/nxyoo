@@ -4,7 +4,7 @@
 
 -->
 
-```html
+```php
 [Armand@Armand-PC ~]$ neofetch
                                ..   Armand@Armand-PC
                    ....,,:;+cclll   ----------------

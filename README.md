@@ -4,11 +4,11 @@
 
 -->
 
-```js
+```java
 [Armand@Armand-PC ~]$ neofetch
                                ..   Armand@Armand-PC
                    ....,,:;+cclll   ----------------
-      ...,,+:;  cllllllllllllllll   OS: Windows 10 Professionnel x86_64
+      ...,,+:;  cllllllllllllllll   OS: Windows 10 Pro
 ,cclllllllllll  lllllllllllllllll   Username: nxyo
 llllllllllllll  lllllllllllllllll   Alias: Armand, lyne
 llllllllllllll  lllllllllllllllll   Discord: https://discord.gg/BTdFXbZ9t7

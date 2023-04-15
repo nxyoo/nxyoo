@@ -1,11 +1,5 @@
-<style>
-  div {
-    border-radius: 50px;
-  }
-</style>
-
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/59174414?v=4" style="width: 20%; border-radius: 50px">
+  <img src="https://avatars.githubusercontent.com/u/59174414?v=4" style="width: 20%; border-radius: 50px;">
 </div>
 <h1 align="center">nxyo</h1>
 

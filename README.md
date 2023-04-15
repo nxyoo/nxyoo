@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://azuriom.com/assets/img/logo.png](https://avatars.githubusercontent.com/u/59174414?v=4)" style="width: 20%; border-radius: 50px">
+  <img src="https://avatars.githubusercontent.com/u/59174414?v=4" style="width: 20%; border-radius: 50px">
 </p>
 <h1 align="center">nxyo</h1>
 
@@ -14,7 +14,7 @@ Je suis développeur web et java chez [AnimationWorld](https://animationworld.eu
 
 ## 🎑Je fais quoi sur github?
 
-Je publie du code, fork des projets qui m'interrese (surtout pour pas me faire engueler par [luuxis](https://github.com/luuxis)...
+Je publie du code, fork des projets qui m'interrese (surtout pour pas me faire engueler par [luuxis](https://github.com/luuxis)...)
 
 ## ♟Stats
 

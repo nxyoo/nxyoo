@@ -3,16 +3,16 @@
 </div>
 <h1 align="center">nxyo</h1>
 
-## ✨Information
+## Information
 
-Hello! Moi c'est nxyo alias Armand, jeune développeur de 14 ans.
+Hello! Moi c'est nxyo alias Armand, jeune développeur de 15 ans.
 Je code en Java, Javascript, [Skript](https://skript-mc.fr) et en HTML
 
-## 🏉Expérience
+## Expérience
 
-Je suis développeur web et java chez [AnimationWorld](https://animationworld.eu) et [Nemeria](https://nemeria.eu.org)
+Je suis développeur web et java chez [Mokaiterium](https://dsc.gg/mokaiterium)
 
-## 🎑Je fais quoi sur github?
+## Je fais quoi sur github?
 
 Je publie du code, fork des projets qui m'interrese (surtout pour pas me faire engueler par [luuxis](https://github.com/luuxis)...)
 
